@@ -1,0 +1,5 @@
+all:
+	g++ -Wall sudo19GewoonEnNRCvanString.cpp -o sudosolver
+run:
+	g++ -Wall sudo19GewoonEnNRCvanString.cpp -o sudosolver
+	./sudosolver
